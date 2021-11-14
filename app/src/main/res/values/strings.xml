@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP Recycler view</string>
+    <string name="descr_imgProducto">Imágen del producto</string>
+    <string name="txt_oferta">¡OFERTA!</string>
+</resources>
